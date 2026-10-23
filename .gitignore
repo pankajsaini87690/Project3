@@ -1,0 +1,13 @@
+# Local account data
+/accounts.txt
+
+# Build outputs
+/bank-management-system
+/bank-management-system.exe
+/bank management system
+*.o
+*.out
+
+# macOS generated files
+.DS_Store
+*.dSYM/
